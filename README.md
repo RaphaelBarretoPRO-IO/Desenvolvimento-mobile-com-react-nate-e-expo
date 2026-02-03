@@ -1,3 +1,17 @@
+# 📱 Curso de Desenvolvimento Mobile (React Native & Expo)
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D047FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+> Repositório central da trilha de desenvolvimento mobile da RaphaelBarretoPRO-IO.
+
+## 🛠️ Ferramentas Utilizadas
+* **Design:** Figma
+* **Ambiente:** Expo (Managed Workflow)
+* **Linguagem:** JavaScript
+
+
 # 📱 Curso de Desenvolvimento Mobile
 
 Este repositório centraliza o acesso a todos os projetos e códigos desenvolvidos durante o curso.
