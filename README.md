@@ -36,7 +36,7 @@ Este repositório centraliza o acesso a todos os projetos e códigos desenvolvid
 ### Seção 2: Componentes e Layout
 | Aula | Título | Link do Repositório |
 | :---: | :--- | :--- |
-| 5 | JSX e “HTML” no React Native - Como renderizar elementos na tela? | [🔗 Repositório](https://github.com/SEU-USUARIO/jsx-e-html-no-react-native-como-renderizar-elementos-na-tela) |
+| 5 | JSX e “HTML” no React Native - Como renderizar elementos na tela? | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao2-componentes-e-layout/aula-5-jsx-ehtml-no-react-native-como-renderizar-elementos-na-tela) |
 | 6 | Estilização e “CSS” no React Native - Posicionando e Embelezando | [🔗 Repositório](https://github.com/SEU-USUARIO/estilizacao-e-css-no-react-native-posicionando-e-embelezando) |
 | 7 | Renderização de Listas | [🔗 Repositório](https://github.com/SEU-USUARIO/renderizacao-de-listas) |
 | 8 | Fazendo a Lista de Tarefas funcionar com conceitos do React | [🔗 Repositório](https://github.com/SEU-USUARIO/fazendo-a-lista-de-tarefas-funcionar-com-conceitos-do-react) |
