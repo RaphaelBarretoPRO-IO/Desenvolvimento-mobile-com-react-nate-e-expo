@@ -26,10 +26,10 @@ Este repositório centraliza o acesso a todos os projetos e códigos desenvolvid
 ### Seção 1: Mobile x Web
 | Aula | Título | Link do Repositório |
 | :---: | :--- | :--- |
-| 1 | Apresentação do Curso | [🔗 Repositório](https://github.com/SEU-USUARIO/apresentacao-do-curso) |
-| 2 | O que é desenvolvimento Nativo e o que isso tem a ver com o React? | [🔗 Repositório](https://github.com/SEU-USUARIO/o-que-e-desenvolvimento-nativo-e-o-que-isso-tem-a-ver-com-o-react) |
-| 3 | Como configurar Ambiente de Desenvolvimento | [🔗 Repositório](https://github.com/SEU-USUARIO/como-configurar-ambiente-de-desenvolvimento) |
-| 4 | Estrutura de um projeto React Native | [🔗 Repositório](https://github.com/SEU-USUARIO/estrutura-de-un-projeto-react-native) |
+| 1 | Apresentação do Curso | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-1-mobile-x-web/aula-1-apresentacao-do-curso) |
+| 2 | O que é desenvolvimento Nativo e o que isso tem a ver com o React? | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-1-mobile-x-web/aula-2-o-que-e-desenvolvimento-nativo-e-o-que-isso-tem-a-ver-com-o-react) |
+| 3 | Como configurar Ambiente de Desenvolvimento | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-1-mobile-x-web/aula-3-como-configurar-ambiente-de-desenvolvimento) |
+| 4 | Estrutura de um projeto React Native | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-1-mobile-x-web/aula-4-estrutura-de-projetos-react-native-com-expo) |
 
 ---
 
