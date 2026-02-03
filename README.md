@@ -10,6 +10,9 @@
 * **Design:** Figma
 * **Ambiente:** Expo (Managed Workflow)
 * **Linguagem:** JavaScript
+* **Frameork:** React Native
+* **Camada de Dados (Cloud):** Firebase
+* **Camada de Dados (Local):** AsyncStorage
 
 
 # 📱 Curso de Desenvolvimento Mobile
