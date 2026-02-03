@@ -4,7 +4,7 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D047FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Repositório central da trilha de desenvolvimento mobile da RaphaelBarretoPRO-IO.
+> Repositório central da trilha de desenvolvimento mobile RaphaelBarretoPRO-IO.
 
 ## 🛠️ Ferramentas Utilizadas
 * **Design:** Figma

@@ -1,36 +1,39 @@
-import { Pressable, TextInput, Image, ScrollView, Text, StyleSheet, View } from 'react-native';
+import { Image, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
 import logo from "../assets/images/check.png";
 import { colors } from "../constants/colors";
 
-export default function Home() {
+export default function RootLayout() {
   return (
-    <ScrollView>
+    <View style={estilo.mainContainer}>
       <View style={estilo.rowContainer}>
         <Image source={logo} style={estilo.image} />
-        <Text style={estilo.title}>Minhas tarefas</Text>
+        <Text style={estilo.title}>
+          Minhas Tarefas
+        </Text>
       </View>
-      <TextInput style={estilo.input} placeholder="Digite sua tarefa" />
-      <Pressable
-        onPress={() => alert("Pressionado")}
-        style={({ pressed }) => [
-          estilo.button,
-          {
-            backgroundColor: pressed ? "blue" : colors.primary
-          }
-        ]}
-      >
-        <Text style={estilo.buttonText}>+</Text>
-      </Pressable>
-
-
-    </ScrollView>
+      <View style={estilo.rowContainer}>
+        <TextInput style={estilo.input} placeholder="Adicione um item" />
+        <Pressable
+          onPress={() => alert("Oi")}
+          style={({ pressed }) => [
+            estilo.button,
+            {
+              backgroundColor: pressed
+                ? "blue"
+                : colors.primary
+            }
+          ]}
+        >
+          <Text style={estilo.buttonText}>+</Text>
+        </Pressable>
+      </View>
+    </View>
   );
 }
-
 const estilo = StyleSheet.create({
   image: {
-    width: 50,
-    height: 50
+    width: 30,
+    height: 30
   },
   title: {
     fontSize: 30,
@@ -38,10 +41,6 @@ const estilo = StyleSheet.create({
     fontWeight: 600,
     color: colors.primary,
     marginLeft: 10
-  },
-  container: {
-    display: "flex"
-    // padrão: flexDirection: "column"
   },
   rowContainer: {
     display: "flex",
@@ -72,6 +71,9 @@ const estilo = StyleSheet.create({
     fontSize: 24,
     lineHeight: 24,
     textAlign: "center"
+  },
+  mainContainer: {
+    padding: 20
   }
 
 
