@@ -39,7 +39,7 @@ Este repositório centraliza o acesso a todos os projetos e códigos desenvolvid
 | 5 | JSX e “HTML” no React Native - Como renderizar elementos na tela? | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-2-componentes-e-layout/aula-5-jsx-ehtml-no-react-native-como-renderizar-elementos-na-tela) |
 | 6 | Estilização e “CSS” no React Native - Posicionando e Embelezando | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-2-componentes-e-layout/aula-6-estilizacao-react-native) |
 | 7 | Renderização de Listas | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-2-componentes-e-layout/aula-7-renderizacao-de-listas) |
-| 8 | Fazendo a Lista de Tarefas funcionar com conceitos do React | [🔗 Repositório](https://github.com/SEU-USUARIO/fazendo-a-lista-de-tarefas-funcionar-com-conceitos-do-react) |
+| 8 | Fazendo a Lista de Tarefas funcionar com conceitos do React | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-2-componentes-e-layout/aula-8-fazendo-a-lista-de-tarefas-funcionar) |
 
 ---
 
