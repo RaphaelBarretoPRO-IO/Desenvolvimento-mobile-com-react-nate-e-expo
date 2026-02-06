@@ -6,8 +6,9 @@ export default function Products() {
   return (
     <View style={[styles.container, { backgroundColor: "#FAEDCB" }]}>
       <Text>Products</Text>
-      <Link href="/components/product-detail"> Ver Detalhes do Produto </Link>
+      <Link href="/components/product-detail"> Ver Detalhes do Produto ➡️</Link>
     </View>
   )
 }
+
 
