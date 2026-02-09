@@ -11,7 +11,7 @@ export default function ProductsLayout() {
             }}
         >
             <Stack.Screen name="index" options={{ headerTitle: "Lista de Produtos", headerShown: false }} />
-            <Stack.Screen name="[id]" options={{ headerTitle: "Detalhes do Produto", headerShow: false }} />
+            <Stack.Screen name="[id]" options={{ headerTitle: "Detalhes do Produto", headerShown: false }} />
         </Stack>
     )
 }
