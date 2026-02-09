@@ -49,7 +49,7 @@ Este repositório centraliza o acesso a todos os projetos e códigos desenvolvid
 | 9 | Navegação em Stack e Empilhamento de Telas | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-3-navegacao-e-roteamento/aula-9-stack-e-empilhamento) |
 | 10 | Parâmetros na Rota, Rotas Aninhadas e Tela de Not Found | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-3-navegacao-e-roteamento/aula-10-parametros-rotas-aniadas) |
 | 11 | Navegação em Tabs (Abas) | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-3-navegacao-e-roteamento/aula-11-navegacao-em-tabs) |
-| 12 | Navegação em Drawer (Menu Hambúrguer) | [🔗 Repositório](https://github.com/SEU-USUARIO/navegacao-em-drawer-menu-hamburguer) |
+| 12 | Navegação em Drawer (Menu Hambúrguer) | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-3-navegacao-e-roteamento/aula-12-navegacao-em-drower) |
 
 ---
 
