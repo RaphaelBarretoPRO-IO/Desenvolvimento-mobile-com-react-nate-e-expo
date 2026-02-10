@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "aula-14-repositorio",
+    "slug": "aula-14-repositorio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/check.png",
+    "scheme": "aula14repositorio",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/check.png",
+        "backgroundImage": "./assets/images/check.png",
+        "monochromeImage": "./assets/images/check.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/check.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/check.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
+
+
+
+
