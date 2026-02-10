@@ -1,4 +1,4 @@
-import { Image, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
+import { Image, Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import logo from "../assets/images/check.png";
 import { colors } from "../styles/colors";
 import { FlatList } from 'react-native';
