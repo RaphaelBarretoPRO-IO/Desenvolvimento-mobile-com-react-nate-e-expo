@@ -57,7 +57,7 @@ Este repositório centraliza o acesso a todos os projetos e códigos desenvolvid
 | Aula | Título | Link do Repositório |
 | :---: | :--- | :--- |
 | 13 | Gestos na Touch Screen e Animações | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-4-usando-recursos-do-celular/13-gestos-touch-screen-animacoes) |
-| 14 | Teclado, Safe Area, App Icon e Splash Screen | [🔗 Repositório](https://github.com/SEU-USUARIO/teclado-safe-area-app-icon-e-splash-screen) |
+| 14 | Teclado, Safe Area, App Icon e Splash Screen | [🔗 Repositório](https://github.com/RaphaelBarretoPRO-IO/Desenvolvimento-mobile-com-react-nate-e-expo/tree/main/secao-4-usando-recursos-do-celular/14-teclado-safe-area-app-icon-splash-screen) |
 | 15 | Armazenamento de Dados | [🔗 Repositório](https://github.com/SEU-USUARIO/armazenamento-de-dados) |
 | 16 | Elementos diferentes no Android e iOS | [🔗 Repositório](https://github.com/SEU-USUARIO/elementos-diferentes-no-android-e-ios) |
 | 17 | Outras funcionalidades nativas (câmera, GPS, etc) | [🔗 Repositório](https://github.com/SEU-USUARIO/outras-funcionalidades-nativas-camera-gps-etc) |
